@@ -23,5 +23,3 @@ const timer = new Timer(durationInput, startButton, pauseButton, {
     console.log('Timer is complited');
   },
 });
-// stroke-dasharray="565"
-//stroke-dashoffset="-40"
